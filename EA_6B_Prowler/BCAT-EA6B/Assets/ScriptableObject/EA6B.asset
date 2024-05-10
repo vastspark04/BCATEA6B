@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17a5f724ee95b6d4bac281dd9a3c1a84, type: 3}
+  m_Name: EA6B
+  m_EditorClassIdentifier: 
+  vehicleName: EA-6B Prowler
+  resourcePath: Vehicles/EA6B
+  readyToFly: 1
+  description: The Northrop Grumman (formerly Grumman) EA-6B Prowler is a twin-engine,
+    four-seat, mid-wing electronic-warfare aircraft derived from the A-6 Intruder
+    airframe. The EA-6A was the initial electronic warfare version of the A-6 used
+    by the United States Marine Corps and United States Navy; it was used during
+    the Vietnam War. Development on the more advanced EA-6B began in 1966. An EA-6B
+    aircrew consisted of one pilot and three Electronic Countermeasures Officers,
+    though it was not uncommon for only two ECMOs to be used on missions. It was
+    capable of carrying and firing anti-radiation missiles (ARMs), such as the AGM-88
+    HARM.
+  nickname: EA-6B
+  vehicleImage: {fileID: 2800000, guid: 7f0524745711a3e4d84f6751564c753c, type: 3}
+  vehiclePrefab: {fileID: 7945973355896111710, guid: b7d83c4fd181b144e9918af879d38b90, type: 3}
+  loadoutSpawnOffset: {x: 0, y: 2.65, z: -7.02}
+  playerSpawnOffset: {x: 0, y: 2.66, z: 0}
+  spawnPitch: 0
+  loadoutConfiguratorPrefab: {fileID: 1523651223817002, guid: 62e499d5071e35b43b6ac78ae340b870, type: 3}
+  uiOnlyConfiguratorPrefab: {fileID: 5452194177057080605, guid: d5521f25f715f344a830f7894a30ed97, type: 3}
+  hardpointCount: 12
+  maxSlots: 1
+  defaultSlots: 1
+  dlc: 0
+  dlcID: 0
+  dlcPrefabName: 
+  allEquipPrefabs:
+  - {fileID: 7912741173006672426, guid: 19b7f79ade259c84d9624a8ba1b6c70f, type: 3}
+  - {fileID: 1092646804117233, guid: 5574a933087cd9c48a620f0237f90a44, type: 3}
+  - {fileID: 7912741173006672426, guid: 91ee4928bb926ee47a4015009c93d2d9, type: 3}
+  - {fileID: 1092646804117233, guid: a9f307e82720a8b4f940ef714dee65ac, type: 3}
+  - {fileID: 7912741173006672426, guid: aa870a29960f7d149823be4b19a46dab, type: 3}
+  - {fileID: 1092646804117233, guid: cec925710c850c54d9bcd62353f30d0a, type: 3}
+  - {fileID: 1628650025412031, guid: 23f166a95133bc048aea7533596fef60, type: 3}
+  - {fileID: 1635243908403360, guid: a458b604ae8602342a1d6edd419d4149, type: 3}
+  - {fileID: 1065257867982988, guid: 9924cf5d3aa918a4ca57eeb04dfab98f, type: 3}
+  - {fileID: 1065257867982988, guid: 6ba3ddc459ba0e54790bcdb329912c9b, type: 3}
+  - {fileID: 1065257867982988, guid: bf7e492cf0d761f4c920e7eee50ac224, type: 3}
+  - {fileID: 1312293294673102, guid: 7a30a014750fce34d91c079137f5f60c, type: 3}
+  - {fileID: 1736166785724625, guid: 323e22e3cb5b36947af39ce265df30e1, type: 3}
+  - {fileID: 1040064831701940, guid: 96d27530dfb839e4297c60fbd23a47cf, type: 3}
+  - {fileID: 1172850694100183, guid: 954de7414f0b44e4eacd85ef690e169e, type: 3}
+  - {fileID: 5967943150213646277, guid: b166bc4d4209e8c4fa591491eeafe569, type: 3}
+  - {fileID: 1851938698709317, guid: ac3b941ab35f4e84ca3cdc95308518bc, type: 3}
+  - {fileID: 1609471672691783, guid: c052197ed88a9f04881bd0d2762964bc, type: 3}
+  - {fileID: 4689480738726470714, guid: 7147efca09039634fb7e5c2caf9e2361, type: 3}
+  - {fileID: 1529144101003075, guid: ff10de1eea6329c4d9af1a5e2a93731e, type: 3}
+  - {fileID: 1529144101003075, guid: 84c152dabfa3e9040807d0b55f31cc3e, type: 3}
+  - {fileID: 1937548658101806, guid: 1780c850126e3a145930bc7fac1b092e, type: 3}
+  - {fileID: 1937548658101806, guid: 7c64a572cb6f0804ba328dbe102c9404, type: 3}
+  - {fileID: 1937548658101806, guid: e35e441f0424c9649b979a7ce826464f, type: 3}
+  - {fileID: 489827483584006710, guid: 15d503441f581304fada9da38b69f073, type: 3}
+  - {fileID: 1420412109406772, guid: 389084cdd6010944f8dff3cb64659155, type: 3}
+  - {fileID: 1080638938887228, guid: a706a61e704451a4b888b80654cf1cee, type: 3}
+  - {fileID: 1197431003935914, guid: d4e7b3a4f2ce5df40b973b68d724bd5b, type: 3}
+  - {fileID: 5837720030155474547, guid: 88feebf89380e654292e7123dc9f82a7, type: 3}
+  - {fileID: 1420412109406772, guid: bff3bceb6d8642a4799a97614f0ba083, type: 3}
+  - {fileID: 1420412109406772, guid: daecb1a8b50258241a4baccf1049dc03, type: 3}
+  - {fileID: 1931828952928969, guid: 207df6e7ecf6a1b47953278e0a05b9c7, type: 3}
+  - {fileID: 1103962604619039, guid: 50a1528743026db4d893088933ad65e8, type: 3}
+  - {fileID: 1498488790389481, guid: e69f9953e2a901644b6faba89360c50b, type: 3}
+  - {fileID: 1541498883741121, guid: 1bb09b47198bedd4eb1e01fd4eb39b53, type: 3}
+  - {fileID: 6053462604528950538, guid: 0af638caf116c114985c70a80c18782a, type: 3}
+  - {fileID: 1000870896244739, guid: 13bf57d0f0e01e24da49296204c70d2d, type: 3}
+  - {fileID: 1766356233206869, guid: c04c709c1c39c144080d4782b0e1fc9d, type: 3}
+  - {fileID: 1000870896244739, guid: cba5052b0aaecd24c9f7988390ed91ca, type: 3}
+  - {fileID: 1766356233206869, guid: f47bcd59350d04546b0f025bb20adb64, type: 3}
+  - {fileID: 1443461133985303, guid: 8501a9f79d280164daff7d8978016e75, type: 3}
+  - {fileID: 1698636330184034, guid: cbd0b87023994d64aa78a719b84adbc9, type: 3}
+  - {fileID: 1030240687333475, guid: a30e7dca3732406488ba975f4487a7a4, type: 3}
+  - {fileID: 1136373245740158, guid: 30f89aaf58b02cd4bbe463f792174cd6, type: 3}
+  - {fileID: 1787991336573433, guid: 865e3c34ec88287428ed9e89057eca23, type: 3}
+  - {fileID: 1309419853778920, guid: d11d41ce77b13d5458b9b245057f836c, type: 3}
+  - {fileID: 1717010563709773, guid: 9e8e642529b3c5347a6380efd8e1e7e2, type: 3}
+  - {fileID: 1851938698709317, guid: d424b9c0e4d5ee54bb45f0eda39f1e7a, type: 3}
+  - {fileID: 1065257867982988, guid: cf9490c03c48cc0438cd65ed3f45eeac, type: 3}
+  - {fileID: 7912741173006672426, guid: f681cd1fe05b4c74c9589bd8e4b7636a, type: 3}
+  - {fileID: 1000870896244739, guid: 8c6ab8179912b374b94061f2b39a8ab8, type: 3}
+  - {fileID: 1000870896244739, guid: ba0ec9646c8ddfb4bb9080b06ab2c649, type: 3}
+  - {fileID: 1931828952928969, guid: 729c61747ee408345aa4e80830147d76, type: 3}
+  - {fileID: 1914602522786586, guid: 333f424293082a84c97b00f5db0e92f9, type: 3}
+  campaigns:
+  - {fileID: 11400000, guid: eb0db5280793f7d46befdc518740c99c, type: 2}
+  - {fileID: 11400000, guid: bbb8aee744dfe2a4190ed16b8c0234f0, type: 2}
+  equipsResourcePath: HPEquips/Ea6b
+  quicksaveReady: 1
